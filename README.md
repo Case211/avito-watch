@@ -187,7 +187,7 @@ Telegram, сайты браузер открывает напрямую. Кон�
 python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt -r requirements-dev.txt
 ruff check .
-pytest -q
+python -m pytest -q
 ```
 
 Браузер для тестов не нужен: разбор WB проверяется на сохранённых ответах сайта (`tests/fixtures/wb.json`).
