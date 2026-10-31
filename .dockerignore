@@ -1,0 +1,12 @@
+# В образ идут только requirements.txt и app/ — остальное в контекст сборки не отправляем:
+# профиль браузера тяжёлый, а .env с токеном демону Docker незачем
+.git/
+.github/
+data/
+docs/
+tests/
+.env
+**/__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/

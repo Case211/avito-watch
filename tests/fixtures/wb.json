@@ -1,0 +1,479 @@
+{
+ "search_url": "https://www.wildberries.ru/__internal/u-search/exactmatch/ru/common/v18/search?ab_testing=false&appType=1&curr=rub&dest=1259570991&hide_vflags=4294967296&inheritFilters=true&lang=ru&locale=ru&query=iphone+15&resultset=catalog&sort=popular&spp=30&suppressSpellcheck=false",
+ "filters_url": "https://www.wildberries.ru/__internal/u-search/exactmatch/ru/common/v18/search?ab_testing=false&appType=1&autoselectFilters=false&curr=rub&dest=1259570991&hide_vflags=4294967296&inheritFilters=true&lang=ru&locale=ru&query=iphone+15&resultset=filters&scale=5&spp=30&suppressSpellcheck=false",
+ "card_url": "https://www.wildberries.ru/__internal/u-card/cards/v4/detail?appType=1&curr=rub&dest=1259570991&spp=30&hide_vflags=4294967296&mtype=257&lang=ru&ab_testing=false&nm=1222039104",
+ "colors_url": "https://www.wildberries.ru/__internal/u-card/cards/v4/detail?appType=1&curr=rub&dest=1259570991&spp=30&hide_vflags=4294967296&mtype=257&lang=ru&ab_testing=false&nm=1222039096;1222039100;1222039101;1222039104;1278209942;1891929901;1416588988;1222039099;1222039102;1222039098",
+ "offers_url": "https://www.wildberries.ru/__internal/meta/duplicates/ru/common/v8/search?appType=1&curr=rub&dest=1259570991&spp=30&hide_vflags=4294967296&ab_testing=false&lang=ru&locale=ru&match_id=588514227&anchor_id=1222039104&anchor_supplier_id=1121282&sort=popular&page=1",
+ "other_urls": [
+  "https://www.wildberries.ru/__internal/u-search-tags/search-tags/api/v3/query?query=iphone+15&lang=ru&appType=1&curr=rub&dest=1259570991&spp=30&hide_vflags=4294967296&locale=ru&total=100&scale=5&rmi=1&ab_testing=false",
+  "https://www.wildberries.ru/__internal/banners/shelfs/search?appType=1&curr=rub&dest=1259570991&spp=30&hide_vflags=4294967296&locale=ru&gender=common&ab_testing=false&lang=ru&scale=5&query=iphone+15&minquantity=13&limit=26",
+  "https://www.wildberries.ru/__internal/meta/meta/ru/common/v8/search?appType=1&curr=rub&dest=1259570991&spp=30&hide_vflags=4294967296&ab_testing=false&rc_id=140&suppressSpellcheck=false&resultset=filters&filters=f4424%3Bf4433%3Bfcolor&f4424=12868&f4433=830086596&fcolor=11393254",
+  "https://www.wildberries.ru/__internal/meta/meta/ru/common/v8/search?appType=1&curr=rub&dest=1259570991&spp=30&hide_vflags=4294967296&ab_testing=false&rc_id=140&suppressSpellcheck=false&resultset=catalog&f4424=12868&f4433=830086596&fcolor=11393254"
+ ],
+ "search": {
+  "metadata": {
+   "catalog_type": "preset",
+   "catalog_value": "preset=19080807",
+   "normquery": "iphone 15",
+   "search_result": {},
+   "name": "iphone 15",
+   "rmi": "1",
+   "title": "iphone 15",
+   "rs": 100,
+   "context": [
+    "электроника",
+    "uv_reranking",
+    "comparison",
+    "ai_chat"
+   ],
+   "qv": "AQEFAQIAASyEqXawJ6ixL5KnW6wUNS0v1qi0ML0rTq9xKHQJdrDErqAuE6yMrrYtYa-brm6i-q-_psWxOq-uqDSxnKV-LxiwIK5MsLguAabXKsexBCpWsIgwTK6XsAap9yspLsqpU6rWp90yZKpZrISm3KW2Ke2tKyfqrmGo8qlrqaMrlLCaqosuailLLD2w45hCrXIsxaU0qdCsja6ULqoorCq0qtQyEqVbMDit2SuWKVUoeS0AK3ksyKqKLUEt3KnTroAdWCrgKnWpYyxZIoauQCSopU6uYi17LWcs7CZfphou-i-QLVGo_iFYKzShzZVRHBYqBi5fLJyeV6nJLhyrnKdVLEM",
+   "snippet": "charcs",
+   "feedbacks": {
+    "blocks": [
+     {
+      "id": "happiness-pop",
+      "title": "Как вам результаты поиска?",
+      "line": 5,
+      "answers": [
+       {
+        "id": "irrel",
+        "title": "Много лишнего"
+       },
+       {
+        "id": "delivery",
+        "title": "Не подходят сроки доставки"
+       },
+       {
+        "id": "variety",
+        "title": "Хочется больше разнообразия",
+        "placeholder": "Что вы под этим подразумеваете?"
+       },
+       {
+        "id": "notfound",
+        "title": "Нет нужного товара"
+       },
+       {
+        "id": "price",
+        "title": "Не нравится цена"
+       },
+       {
+        "id": "taste",
+        "title": "Ничего не нравится"
+       },
+       {
+        "id": "other",
+        "title": "Другое",
+        "placeholder": "Что не так с вашим поиском?"
+       }
+      ]
+     }
+    ]
+   },
+   "kcl": "MovMw0fGWGrxzUIeBpDX5UBzv4ZirdKB1R6TaOiLOk0d2YhvQlBfV10PJR3d2Szcn9c",
+   "preset_normquery_map": {
+    "19080807": "iphone 15"
+   }
+  },
+  "products": [
+   {
+    "id": 1222039104,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "Смартфон iPhone 15 128 ГБ, голубой Восстановленный",
+    "supplier": "Horizon Digital Store",
+    "supplierId": 1121282,
+    "supplierRating": 4.7,
+    "pics": 11,
+    "rating": 5,
+    "reviewRating": 5,
+    "feedbacks": 9,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 11486300,
+       "product": 4623200,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 26,
+    "meta": {
+     "characteristics": [
+      {
+       "name": "Объем встроенной памяти",
+       "values": [
+        "128 ГБ"
+       ]
+      },
+      {
+       "name": "Диагональ экрана",
+       "values": [
+        "6.1\""
+       ]
+      },
+      {
+       "name": "Разрешение экрана",
+       "values": [
+        "2556х1179"
+       ]
+      },
+      {
+       "name": "Основная камера",
+       "values": [
+        "48 Мп"
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "id": 1337560976,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "Смартфон iPhone 15 256 ГБ, черный Две SIM Восстановленный",
+    "supplier": "Радужная технология",
+    "supplierId": 250168741,
+    "supplierRating": 4.7,
+    "pics": 17,
+    "rating": 5,
+    "reviewRating": 5,
+    "feedbacks": 1,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 9492300,
+       "product": 4129100,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 30,
+    "meta": {
+     "characteristics": [
+      {
+       "name": "Объем оперативной памяти",
+       "values": [
+        "6 ГБ"
+       ]
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "values": [
+        "256 ГБ"
+       ]
+      },
+      {
+       "name": "Диагональ экрана",
+       "values": [
+        "6.1\""
+       ]
+      },
+      {
+       "name": "Разрешение экрана",
+       "values": [
+        "2556х1179"
+       ]
+      },
+      {
+       "name": "Основная камера",
+       "values": [
+        "48 Мп"
+       ]
+      }
+     ]
+    }
+   },
+   {
+    "id": 1271723479,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "Cмартфон iPhone 15 256ГБ Розовый Восстановленный",
+    "supplier": "PANDA SMART",
+    "supplierId": 250161296,
+    "supplierRating": 4.4,
+    "pics": 8,
+    "rating": 4,
+    "reviewRating": 4.4,
+    "feedbacks": 59,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 9820000,
+       "product": 4271700,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 25,
+    "meta": {
+     "characteristics": [
+      {
+       "name": "Объем оперативной памяти",
+       "values": [
+        "8 ГБ"
+       ]
+      },
+      {
+       "name": "Объем встроенной памяти",
+       "values": [
+        "256 ГБ"
+       ]
+      },
+      {
+       "name": "Диагональ экрана",
+       "values": [
+        "6.1\""
+       ]
+      },
+      {
+       "name": "Разрешение экрана",
+       "values": [
+        "2556х1179"
+       ]
+      },
+      {
+       "name": "Основная камера",
+       "values": [
+        "4255 Мп"
+       ]
+      }
+     ]
+    }
+   }
+  ],
+  "total": 9278
+ },
+ "card": {
+  "products": [
+   {
+    "id": 1222039104,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "Смартфон iPhone 15 128 ГБ, голубой Восстановленный",
+    "supplier": "Horizon Digital Store",
+    "supplierId": 1121282,
+    "supplierRating": 4.7,
+    "pics": 11,
+    "rating": 5,
+    "reviewRating": 5,
+    "feedbacks": 9,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 11486300,
+       "product": 4623200,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 26
+   }
+  ]
+ },
+ "offers": {
+  "products": [
+   {
+    "id": 1267528941,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "iPhone 15 128 ГБ, голубой, Восстановленный",
+    "supplier": "Добро",
+    "supplierId": 250136244,
+    "supplierRating": 4,
+    "pics": 5,
+    "rating": 0,
+    "reviewRating": 0,
+    "feedbacks": 0,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 6784800,
+       "product": 4427000,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 10,
+    "meta": {}
+   },
+   {
+    "id": 463125045,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "Смартфон iPhone 15 128 ГБ, голубой, Восстановленный",
+    "supplier": "Net:Store",
+    "supplierId": 250020102,
+    "supplierRating": 4.2,
+    "pics": 5,
+    "rating": 4,
+    "reviewRating": 3.9,
+    "feedbacks": 125,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 9941100,
+       "product": 4992400,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 8,
+    "meta": {}
+   },
+   {
+    "id": 866953933,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "iPhone 15 128 ГБ, голубой, Восстановленный",
+    "supplier": "Sierra Store",
+    "supplierId": 250115017,
+    "supplierRating": 4.1,
+    "pics": 5,
+    "rating": 5,
+    "reviewRating": 5,
+    "feedbacks": 2,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 9943000,
+       "product": 4993300,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 7,
+    "meta": {}
+   },
+   {
+    "id": 423189184,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "iPhone 15 128 ГБ, голубой, Восстановленный",
+    "supplier": "iFansStore",
+    "supplierId": 250006317,
+    "supplierRating": 4.2,
+    "pics": 5,
+    "rating": 4,
+    "reviewRating": 4.1,
+    "feedbacks": 231,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 10138100,
+       "product": 5091300,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 8,
+    "meta": {}
+   },
+   {
+    "id": 328894675,
+    "kindId": 0,
+    "brand": "Apple",
+    "brandId": 6049,
+    "subjectId": 515,
+    "subjectParentId": 6258,
+    "name": "iPhone 15 128 ГБ, голубой, Восстановленный",
+    "supplier": "AF:Store",
+    "supplierId": 4396829,
+    "supplierRating": 4.3,
+    "pics": 7,
+    "rating": 4,
+    "reviewRating": 3.9,
+    "feedbacks": 78,
+    "sizes": [
+     {
+      "name": "",
+      "origName": "0",
+      "rank": 0,
+      "price": {
+       "basic": 10240500,
+       "product": 5142700,
+       "logistics": 0,
+       "return": 0,
+       "cashback": 0,
+       "wallet": 0
+      }
+     }
+    ],
+    "totalQuantity": 8,
+    "meta": {}
+   }
+  ],
+  "total": 5
+ }
+}

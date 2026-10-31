@@ -1,0 +1,11 @@
+# Встроенная видеокарта сервера (Intel или AMD, /dev/dri): WebGL в браузере как у обычного компьютера — без него
+# WB не пускает. Подключается строкой COMPOSE_FILE=docker-compose.yml:docker-compose.gpu.yml в .env.
+# Mesa открывает и renderD128 (группа render), и card* (video): без video выходит программный llvmpipe.
+# RENDER_GID и VIDEO_GID — номера этих групп на хосте: getent group render video
+services:
+  avito-watch:
+    devices:
+      - /dev/dri:/dev/dri
+    group_add:
+      - "${RENDER_GID:-991}"
+      - "${VIDEO_GID:-44}"

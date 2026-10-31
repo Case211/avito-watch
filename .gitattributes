@@ -1,0 +1,2 @@
+# Код живёт на Linux: в рабочей копии тоже LF, без перевода в CRLF на Windows
+* text=auto eol=lf

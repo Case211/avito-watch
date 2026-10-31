@@ -1,0 +1,32 @@
+services:
+  avito-watch:
+    build: .
+    image: avito-watch:local
+    container_name: avito-watch
+    restart: unless-stopped
+    init: true
+    # Сеть хоста: так бот достаёт до прокси на 127.0.0.1 сервера (TELEGRAM_PROXY, AI_PROXY в .env). Сайты браузер
+    # открывает напрямую — им нужен домашний российский адрес
+    network_mode: host
+    env_file: .env
+    environment:
+      DATA_DIR: /data
+      # Часовой пояс: тихие часы, ночь и время в сообщениях
+      TZ: ${TZ:-Europe/Moscow}
+    volumes:
+      # База поисков и профиль Chrome с куками проверок сайтов
+      - ./data:/data
+    # Chrome держит в /dev/shm кадры страниц: 64 МБ по умолчанию ему мало
+    shm_size: 512m
+    # Во время проверки рядом с Chrome работает процесс Claude Code — ещё сотни мегабайт
+    mem_limit: 2g
+    # Процессу не нужны никакие привилегии: ни сеть настраивать, ни подниматься до root
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "3"
